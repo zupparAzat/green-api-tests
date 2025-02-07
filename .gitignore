@@ -1,0 +1,23 @@
+# Файл окружения с секретами
+.env
+
+# Папки Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+venv/
+env/
+
+# Папки IDE
+.idea/
+.vscode/
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Selenium/WebDriver
+chromedriver.log
+geckodriver.log
